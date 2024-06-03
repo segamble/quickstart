@@ -1,0 +1,4 @@
+baseURL = 'https://actingonfact.org/'
+languageCode = 'en-us'
+title = 'Acting on Fact'
+theme = 'ananke'
