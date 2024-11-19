@@ -1,4 +1,7 @@
-baseURL = 'https://actingonfact.org/'
+baseURL = 'https://gc-pricing.com/'
 languageCode = 'en-us'
-title = 'Acting on Fact'
+title = 'Proposal Pricing from glassCanopy'
 theme = 'ananke'
+[params]
+custom_css = ["style.css"]
+custom_js = ["script.js"]

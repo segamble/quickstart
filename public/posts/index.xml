@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Acting on Fact</title>
+    <title>Posts on Proposal Pricing from glassCanopy</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Acting on Fact</description>
+    <description>Recent content in Posts on Proposal Pricing from glassCanopy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2024 21:04:11 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Generic Client</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 01 Jun 2024 21:04:11 -0600</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;URL Name Niche Language https://myb.day/ Mein Geburtstag Birthdays German https://bloggerpilot.com/ BloggerPilot Online Marketing Multi https://kursprofi.com/ KursProfi e-learning German Visit the Hugo website!</description>
     </item>
   </channel>
 </rss>
